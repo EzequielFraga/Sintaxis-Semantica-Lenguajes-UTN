@@ -51,6 +51,8 @@ Además del desarrollo de las partes asignadas, trabajé sobre el funcionamiento
 
 ## Estructura
 
+```text
+.
 ├── TP2/
 │   ├── src/
 │   ├── tests/
