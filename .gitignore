@@ -1,0 +1,21 @@
+# Compilación
+*.o
+*.exe
+*.out
+
+# Dependencias generadas
+.deps/
+obj/
+bin/
+
+# Flex
+*.lex.yy.c
+
+# Bison
+*.tab.c
+*.tab.h
+*.output
+
+# Visual Studio Code
+.vscode/
+*.code-workspace

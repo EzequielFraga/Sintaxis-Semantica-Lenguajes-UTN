@@ -1,0 +1,70 @@
+* Listado de identificadores encontrados:
+limit: aparece 2 veces
+n: aparece 6 veces
+
+* Listado de literales cadena encontrados:
+-
+
+* Listado de palabras reservadas (clase de almacenamiento):
+static: linea 1, columna 1
+
+* Listado de palabras reservadas (especificadores de tipo):
+int: linea 1, columna 8
+int: linea 2, columna 7
+
+* Listado de palabras reservadas (calificadores de tipo):
+const: linea 2, columna 1
+
+* Listado de palabras reservadas (struct o union):
+-
+
+* Listado de palabras reservadas (enumeracion):
+-
+
+* Listado de palabras reservadas (etiqueta):
+-
+
+* Listado de palabras reservadas (seleccion):
+if: linea 4, columna 5
+
+* Listado de palabras reservadas (iteracion):
+for: linea 3, columna 1
+
+* Listado de palabras reservadas (salto):
+break: linea 5, columna 9
+continue: linea 7, columna 5
+
+* Listado de palabras reservadas (unario):
+-
+
+* Listado de constantes enteras decimales:
+5: valor 5
+2: valor 2
+1: valor 1
+Total acumulado de sumar todas las constantes decimales: 8
+
+* Listado de constantes enteras hexadecimales:
+-
+
+* Listado de constantes enteras octales:
+0: valor entero decimal 0
+
+* Listado de constantes reales:
+-
+
+* Listado de constantes caracter enumerados:
+-
+
+* Listado de operadores/caracteres de puntuación:
+;: aparece 6 veces
+=: aparece 3 veces
+(: aparece 2 veces
+<: aparece 1 vez
++: aparece 1 vez
+): aparece 2 veces
+{: aparece 2 veces
+>: aparece 1 vez
+}: aparece 2 veces
+
+* Listado de cadenas no reconocidas:
+-

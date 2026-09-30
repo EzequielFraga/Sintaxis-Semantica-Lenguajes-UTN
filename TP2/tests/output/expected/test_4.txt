@@ -1,0 +1,78 @@
+* Listado de identificadores encontrados:
+a: aparece 1 vez
+b: aparece 1 vez
+blue: aparece 1 vez
+c: aparece 1 vez
+color: aparece 1 vez
+d: aparece 1 vez
+green: aparece 1 vez
+point: aparece 1 vez
+red: aparece 1 vez
+x: aparece 1 vez
+y: aparece 1 vez
+
+* Listado de literales cadena encontrados:
+-
+
+* Listado de palabras reservadas (clase de almacenamiento):
+-
+
+* Listado de palabras reservadas (especificadores de tipo):
+int: linea 1, columna 16
+int: linea 1, columna 23
+char: linea 3, columna 1
+char: linea 4, columna 1
+char: linea 5, columna 1
+char: linea 6, columna 1
+
+* Listado de palabras reservadas (calificadores de tipo):
+-
+
+* Listado de palabras reservadas (struct o union):
+struct: linea 1, columna 1
+
+* Listado de palabras reservadas (enumeracion):
+enum: linea 2, columna 1
+
+* Listado de palabras reservadas (etiqueta):
+-
+
+* Listado de palabras reservadas (seleccion):
+-
+
+* Listado de palabras reservadas (iteracion):
+-
+
+* Listado de palabras reservadas (salto):
+-
+
+* Listado de palabras reservadas (unario):
+-
+
+* Listado de constantes enteras decimales:
+-
+
+* Listado de constantes enteras hexadecimales:
+-
+
+* Listado de constantes enteras octales:
+-
+
+* Listado de constantes reales:
+-
+
+* Listado de constantes caracter enumerados:
+1) 'A'
+2) '\n'
+3) '\07'
+4) '\xF'
+
+* Listado de operadores/caracteres de puntuación:
+{: aparece 2 veces
+;: aparece 7 veces
+}: aparece 2 veces
+,: aparece 2 veces
+=: aparece 4 veces
+
+* Listado de cadenas no reconocidas:
+-
