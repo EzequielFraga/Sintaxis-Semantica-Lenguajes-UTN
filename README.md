@@ -67,5 +67,6 @@ Además del desarrollo de las partes asignadas, trabajé sobre el funcionamiento
 │
 └── README.md
 
+
 ## Objetivo
 Aplicar conceptos de teoría de lenguajes, análisis léxico y análisis sintáctico mediante herramientas utilizadas para la construcción de compiladores e intérpretes, combinando los fundamentos teóricos con su implementación en C.
