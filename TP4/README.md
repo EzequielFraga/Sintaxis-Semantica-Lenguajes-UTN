@@ -1,14 +1,6 @@
 # TP4: Trabajo Práctico Integrador (TPI)
 ## Analizador léxico, sintáctico y semántico de C
 
-### Integrantes
-
-| Nombre y apellido   | Legajo   | Parte del TP      |
-|---------------------|----------|-------------------|
-| Ezequiel Fraga      | 222313-2 | Tabla de símbolos |
-| Thiago Calascibetta | 229032-7 | Expresiones       |
-| Matias Fasce        | 209840-4 | Funciones         |
-
 ### Descripción del trabajo
 
 El programa recibe un archivo de código fuente en C (`.i`) y lo analiza en tres etapas:
