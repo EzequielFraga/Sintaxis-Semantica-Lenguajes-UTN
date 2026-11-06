@@ -1,7 +1,7 @@
-# Analizadores Léxico y Sintáctico en C
+# Analizadores Léxico, Sintáctico y Semántico en C
 Proyecto académico desarrollado en la materia **Sintaxis y Semántica de los Lenguajes** de Ingeniería en Sistemas de Información — UTN FRBA.
 
-El proyecto recorre distintas etapas del procesamiento de un lenguaje, desde el reconocimiento y clasificación de componentes léxicos hasta el análisis sintáctico de código C mediante una gramática formal.
+El proyecto recorre distintas etapas del procesamiento de un lenguaje, desde el reconocimiento y clasificación de componentes léxicos hasta el análisis sintáctico y semántico de código ANSI C (C89/C90).
 
 ## Tecnologías
 - C
